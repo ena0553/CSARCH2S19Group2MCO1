@@ -45,16 +45,16 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model                               | Vendor & Link      | Price (Php)    | Compatibility Notes                  |
 |-----------------|-------                              |--------------------|----------------|--------------------------------------|
-| CPU             | Intel i3-14100F                     | [Dynaquest](link)  | ...            |                                      |
+| CPU             | Intel i3-14100F                     | [Dynaquest]([link](https://dynaquestpc.com/products/intel-core-i3-14100f-12mb-up-to-4-50ghzlga-1700-processor))  | ...            |                                      |
 | CPU Cooler      | Stock                               |                    | ...            |                                      |
-| Motherboard     | Gigabyte B760M DS3H WiFi6E Gen5 DDR5| [DataBlitz](link)  | ...            |                                      |
-| RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC](link)     | ...            |                                      |
-| Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz](link)  | ...            |                                      |
+| Motherboard     | Gigabyte B760M DS3H WiFi6E Gen5 DDR5| [DataBlitz]([link](https://ecommerce.datablitz.com.ph/products/gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-intel-ultra-durable-motherboard))  | ...            |                                      |
+| RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC]([link](https://easypc.com.ph/products/lexar-thor-rgb-ddr5-32gb-6000mhz-gaming-memory?srsltid=AfmBOoqUt495qeqWePYjocHmOXrUTsiVlfxfILEiNcPCi0vaH82RKssy))     | ...            |                                      |
+| Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz]([link](https://ecommerce.datablitz.com.ph/products/adata-legend-860-500gb-pcie-gen4-x4-m-2-2280-internal-ssd-sleg-860-500gcs))  | ...            |                                      |
 | Storage 2 (HDD) | ...                                 |                    | ...            |                                      |
-| GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest](link)  | ...            |                                      |
-| PSU             | MSI MAG A550BN Bronze 550W 80+      | [Dynaquest](link)  | ...            |                                      |
-| Case            | Darkflash DB330M mATX PC Case       | [DataBlitz](link)  | ...            |                                      |
-| Case Fans       | (3 pcs) Arctic P12 Pro PWM Fan      | [DataBlitz](link)  | ...            | 120mm                                |
+| GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest]([link](https://dynaquestpc.com/collections/graphics-card/products/palit-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d))  | ...            |                                      |
+| PSU             | MSI MAG A550BN Bronze 550W 80+      | [Dynaquest]([link](https://dynaquestpc.com/collections/components-power-supply-500-650-watts/products/msi-mag-a550bn-bronze-550w-80-power-supply))  | ...            |                                      |
+| Case            | Darkflash DB330M mATX PC Case       | [DataBlitz]([link](https://ecommerce.datablitz.com.ph/products/darkflash-db330m-m-atx-pc-case))  | ...            |                                      |
+| Case Fans       | (3 pcs) Arctic P12 Pro PWM Fan      | [DataBlitz]([link](https://ecommerce.datablitz.com.ph/collections/chasis-fan/products/arctic-p12-pro-single-pack-120mm-pwm-fan-with-cable-splitter-black-acfan00305a))  | ...            | 120mm                                |
 | **Total**       |                                     |                    | **41,680 Php** | Within budget                        |
 
 ---
@@ -90,5 +90,6 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
