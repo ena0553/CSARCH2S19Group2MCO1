@@ -48,7 +48,7 @@ Google spreadsheet link: _________
 | CPU             | Intel i3-14100F                     | [Dynaquest]([link](https://dynaquestpc.com/products/intel-core-i3-14100f-12mb-up-to-4-50ghzlga-1700-processor))  | ...            |                                      |
 | CPU Cooler      | Stock                               |                    | ...            |                                      |
 | Motherboard     | Gigabyte B760M DS3H WiFi6E Gen5 DDR5| [DataBlitz]([link](https://ecommerce.datablitz.com.ph/products/gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-intel-ultra-durable-motherboard))  | ...            |                                      |
-| RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC]([link](https://easypc.com.ph/products/lexar-thor-rgb-ddr5-32gb-6000mhz-gaming-memory?srsltid=AfmBOoqUt495qeqWePYjocHmOXrUTsiVlfxfILEiNcPCi0vaH82RKssy))     | ...            |                                      |
+| RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC](https://easypc.com.ph/products/lexar-thor-rgb-ddr5-32gb-6000mhz-gaming-memory?srsltid=AfmBOoqUt495qeqWePYjocHmOXrUTsiVlfxfILEiNcPCi0vaH82RKssy)     | ...            |                                      |
 | Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz]([link](https://ecommerce.datablitz.com.ph/products/adata-legend-860-500gb-pcie-gen4-x4-m-2-2280-internal-ssd-sleg-860-500gcs))  | ...            |                                      |
 | Storage 2 (HDD) | ...                                 |                    | ...            |                                      |
 | GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest]([link](https://dynaquestpc.com/collections/graphics-card/products/palit-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d))  | ...            |                                      |
@@ -90,6 +90,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
