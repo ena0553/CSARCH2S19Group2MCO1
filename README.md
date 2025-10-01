@@ -43,19 +43,19 @@ This build uses **locally available parts** from Manila vendors.
 Google spreadsheet link: _________  
 
 ### Local Build Table
-| Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
-|-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| Component       | Model                               | Vendor & Link      | Price (Php)    | Compatibility Notes                  |
+|-----------------|-------                              |--------------------|----------------|--------------------------------------|
+| CPU             | Intel i3-14100F                     | [Dynaquest](link)  | ...            |                                      |
+| CPU Cooler      | Stock                               |                    | ...            |                                      |
+| Motherboard     | Gigabyte B760M DS3H WiFi6E Gen5 DDR5| [DataBlitz](link)  | ...            |                                      |
+| RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC](link)     | ...            |                                      |
+| Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz](link)  | ...            |                                      |
+| Storage 2 (HDD) | ...                                 |                    | ...            |                                      |
+| GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest](link)  | ...            |                                      |
+| PSU             | MSI MAG A550BN Bronze 550W 80+      | [Dynaquest](link)  | ...            |                                      |
+| Case            | Darkflash DB330M mATX PC Case       | [DataBlitz](link)  | ...            |                                      |
+| Case Fans       | (3 pcs) Arctic P12 Pro PWM Fan      | [DataBlitz](link)  | ...            | 120mm                                |
+| **Total**       |                                     |                    | **41,680 Php** | Within budget                        |
 
 ---
 
@@ -90,4 +90,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
