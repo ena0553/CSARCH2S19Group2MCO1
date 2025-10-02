@@ -3,11 +3,11 @@
 **Course**: CSARCH2  
 **Section**: ___  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Aragon, Enrique Miguel M.
+- Limtin, Richard  
+- Reyes, Jericho Migell
+- Tan, Ross David  
+- Yu, Chrisander
 
 ---
 
@@ -50,7 +50,7 @@ Google spreadsheet link: _________
 | Motherboard     | Gigabyte B760M DS3H WiFi6E Gen5 DDR5| [DataBlitz](https://ecommerce.datablitz.com.ph/products/gigabyte-b760m-ds3h-wifi6e-gen5-ddr5-intel-ultra-durable-motherboard)  | 7,495.00            |                                      |
 | RAM             | Lexar Thor RGB 32GB Kit             | [EasyPC](https://easypc.com.ph/products/lexar-thor-rgb-ddr5-32gb-6000mhz-gaming-memory?srsltid=AfmBOoqUt495qeqWePYjocHmOXrUTsiVlfxfILEiNcPCi0vaH82RKssy)     | 4,995.00            |                                      |
 | Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz](https://ecommerce.datablitz.com.ph/products/adata-legend-860-500gb-pcie-gen4-x4-m-2-2280-internal-ssd-sleg-860-500gcs)  | 2,295.00            |                                      |
-| Storage 2 (HDD) | ...                                 |                    | ...            |                                      |
+| Storage 2 (HDD) | ...                                 |                    | -            |                                      |
 | GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest](https://dynaquestpc.com/collections/graphics-card/products/palit-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d)  | 16,485.00            |                                      |
 | PSU             | MSI MAG A550BN Bronze 550W 80+      | [Dynaquest](https://dynaquestpc.com/collections/components-power-supply-500-650-watts/products/msi-mag-a550bn-bronze-550w-80-power-supply)  | 2,595.00            |                                      |
 | Case            | Darkflash DB330M mATX PC Case       | [DataBlitz](https://ecommerce.datablitz.com.ph/products/darkflash-db330m-m-atx-pc-case)  | 1,590.00            |                                      |
@@ -87,9 +87,11 @@ Reflections on:
 - Your video link here  
 
 ## 8. References
+
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
