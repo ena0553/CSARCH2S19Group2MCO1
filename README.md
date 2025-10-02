@@ -2,6 +2,7 @@
 
 **Course**: CSARCH2  
 **Section**: S19
+
 **Group Members**:  
 - Aragon, Enrique Miguel M.
 - Limtin, Richard  
@@ -110,6 +111,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
