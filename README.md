@@ -102,17 +102,12 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [Video Pitch](https://youtu.be/Mc9mZpm6lVM)
 
 ## 8. References
-
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
-
-## PC Part References
-
 - [DynaQuest PC](https://dynaquestpc.com/)  
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+- [PCPartPicker Link](https://pcpartpicker.com/list/VsgdLc)
+
 
 
 
