@@ -53,7 +53,7 @@ Google spreadsheet link: _________
 | Storage 1 (SSD) | Adata Legend 860 500GB              | [DataBlitz](https://ecommerce.datablitz.com.ph/products/adata-legend-860-500gb-pcie-gen4-x4-m-2-2280-internal-ssd-sleg-860-500gcs)  | 2,295.00            |                                      |
 | Storage 2 (HDD) | ...                                 |                    | -            |                                      |
 | GPU             | Palit RTX 5050 DUAL 8GB DDR6        | [Dynaquest](https://dynaquestpc.com/collections/graphics-card/products/palit-rtx-5050-dual-8gb-gddr6-graphics-card-ne65050019p1-gb2070d)  | 16,485.00            |                                      |
-| PSU             | MSI MAG A550BN Bronze 550W 80+      | [Dynaquest](https://dynaquestpc.com/collections/components-power-supply-500-650-watts/products/msi-mag-a550bn-bronze-550w-80-power-supply)  | 2,595.00            |                                      |
+| PSU             | Gigabyte P550SS Silver 550W ATX 3.0 80+ Power Supply GP-P550SS      | [Dynaquest]([https://dynaquestpc.com/collections/components-power-supply-500-650-watts/products/msi-mag-a550bn-bronze-550w-80-power-supply](https://dynaquestpc.com/collections/components-power-supply-500-650-watts/products/gigabyte-p550ss-silver-550w-atx-3-0-80-power-supply-gp-p550ss))  | 2,595.00            |                                      |
 | Case            | Darkflash DB330M mATX PC Case       | [DataBlitz](https://ecommerce.datablitz.com.ph/products/darkflash-db330m-m-atx-pc-case)  | 1,590.00            |                                      |
 | Case Fans       | (3 pcs) Arctic P12 Pro PWM Fan      | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/chasis-fan/products/arctic-p12-pro-single-pack-120mm-pwm-fan-with-cable-splitter-black-acfan00305a)  | 885.00            | 120mm                                |
 | **Total**       |                                     |                    | **41,680 Php** | Within budget                        |
@@ -61,12 +61,21 @@ Google spreadsheet link: _________
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 5050 fits case, PSU wattage sufficient.  
+**CPU + Motherboard**: The Gigabyte B760M DS3H WiFi6E Gen5 DDR5 is compatible with the Intel i3-14100F. The Gigabte B760M DS3H WiFi6E Gen5 DDR5 has a LGA1700 socket which supports 12th, 13th, and 14th Intel CPU generations.
 
+**RAM + Motherboard**: The Gigabyte B760M DS3H WiFi6E Gen5 requires a DDR5 RAM. The Lexar Thor RGB 32GB Kit are composed of 2 DDR5 16 GB RAM sticks with 6000MHz, this will allow for smooth gaming for modern games.
+
+**CPU + GPU**: The i3-14100F and RTX 5050 allows for smooth graphics and fps for 1080p gaming:
+
+Cyberpunk 1080p ULTRA AVG 69 FPS
+God Of War Ragnarok 1080p ULTRA AVG 84 FPS
+CSGO 2.0 1080p ULTRA AVG 348 FPS
+
+source: https://www.youtube.com/watch?v=eJjRRr90BHk&t
+
+**PSU**: According the PcParts Picker, the estimated wattage consumption of our compotents is 325 Watts, therefore the Gigabyte P550SS Silver 550W ATX 3.0 80+ Power Supply GP-P550SS with a 550 wattage will allow for flexibility in terms of electricity usage of components. 
+
+**Case**: The matx case will be able to fit the Gigabyte B760M DS3H WiFi6E Gen5 motherboard as it is also an matx motherboard. Whilst the Gigabyte P550SS Silver 550W ATX 3.0 80+ Power Supply is an atx size, the case will still be able to accomodate its size. 
 ---
 
 ## 5. Budget Analysis
@@ -99,6 +108,7 @@ Reflections on:
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
