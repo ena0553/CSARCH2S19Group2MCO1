@@ -27,15 +27,15 @@ PCPartPicker Permalink: [DraftBuild](https://pcpartpicker.com/list/YTXX8Q)
 |-----------------|-------|-----------------|-------|
 | CPU             | Intel Core i3-14100F 3.5 GHz Quad-Core Processor   | 99.99             | ...   |
 | CPU Cooler      | -  | ...             | ...   |
-| Motherboard     | Gigabyte B760M Motherboard   | 152.98             | BIOS needs to be updated for intel i3-14100F   |
-| RAM             |  Silicon Power GAMING 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory  | ...             | ...   |
-| Storage 1       | Adata Legend 860 500GB SSD  | 88.99             | ...   |
+| Motherboard     | Gigabyte B760M GAMING PLUS WIFI DDR4 Micro ATX LGA1700 Motherboard   | 139.99             |   |
+| RAM             | Silicon Power GAMING 16 GB | 40.97             | ...   |
+| Storage 1       |ADATA LEGEND 860 500 GB SSD  | 88.99             | ...   |
 | Storage 2       | -  | ...             | ...   |
 | Graphics Card   | Asus DUAL OC GeForce RTX 5050 8 GB Video Card  | 249.99             | ...   |
-| Power Supply    |Gigabyte P550SS 550 W 80+ Power Supply   | 44.62             | Price unavailable on PCPartPicker, price taken from Dynaquest and converted to USD   |
-| Case            | darkFlash DB330M MicroATX Mini Tower Case| 65.23             | ...   |
-| Case Fans       | ARCTIC P12 Pro 77 CFM Fan  | ...             | 8.49   |
-| **Total**       |       | **682.65 USD**     |       |
+| Power Supply    |Gigabyte P550SS 550 W 80+ Silver Certified ATX Power Supply  | 44.59             | Price unavailable on PCPartPicker, price taken from Dynaquest and converted to USD   |
+| Case            | Zalman CUBIX MicroATX Mini Tower Case| 38.9             | ...   |
+| Case Fans       | (2 pcs) ARCTIC P12 Pro 77 CFM Fan  | ...             | 16.98   |
+| **Total**       |       | **720.40 USD / 41,937.01 Php**     |       |
 
 ---
 
@@ -110,6 +110,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
