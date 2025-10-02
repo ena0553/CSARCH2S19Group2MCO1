@@ -27,8 +27,8 @@ PCPartPicker Permalink: [DraftBuild](https://pcpartpicker.com/list/YTXX8Q)
 |-----------------|-------|-----------------|-------|
 | CPU             | Intel Core i3-14100F 3.5 GHz Quad-Core Processor   | 99.99             | ...   |
 | CPU Cooler      | -  | ...             | ...   |
-| Motherboard     | Gigabyte B760M Motherboard   | 152.98             | ...   |
-| RAM             |    | ...             | ...   |
+| Motherboard     | Gigabyte B760M Motherboard   | 152.98             | BIOS needs to be updated for intel i3-14100F   |
+| RAM             |  Silicon Power GAMING 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory  | ...             | ...   |
 | Storage 1       | Adata Legend 860 500GB SSD  | 88.99             | ...   |
 | Storage 2       | -  | ...             | ...   |
 | Graphics Card   | Asus DUAL OC GeForce RTX 5050 8 GB Video Card  | 249.99             | ...   |
@@ -110,6 +110,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
