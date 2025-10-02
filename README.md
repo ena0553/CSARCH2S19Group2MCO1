@@ -65,14 +65,20 @@ Example:
 - **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
 - **GPU**: NVIDIA RTX 5050 fits case, PSU wattage sufficient.  
-
+- **STORAGE**: Adata Legend can directly connect to the motherboard's slot, while providing 500GB of storage and quick loading times.
+- **COMPUTER CASE**: The Gigabyte B760M motherboard will fit perfectly in our computer case. The Arctic P12 Pro PWM Fans also fit well in this computer case.
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱42,000  
+- **Final Total**: ₱41, 680  
+- ✅ Within budget 
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+i3-14100F is still part of the i3 model. If we could have gotten something like i5 14th gen chip, it would have increased cpu power.
+The RTX 5050 can only handle 1080p games smoothly. It will struggle to run 4K games natively.
+As for our Adata storage, 500GB is quite small. Modern AAA games take up 60-100GB, affecting our comfort of having a collection.
+Also, because of our budget, we couldn't get another HDD.
+
 
 ---
 
@@ -91,6 +97,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
