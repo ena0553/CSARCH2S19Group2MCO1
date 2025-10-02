@@ -93,10 +93,13 @@ Reflections on:
 - PCPartPicker build link  
 - Any technical documentation consulted  
 
-https://dynaquestpc.com/
-https://easypc.com.ph/
-https://ecommerce.datablitz.com.ph/
-https://www.amazon.com/ (used to figure out part release dates) 
+## PC Part References
+
+- [DynaQuest PC](https://dynaquestpc.com/)  
+- [EasyPC](https://easypc.com.ph/)  
+- [DataBlitz](https://ecommerce.datablitz.com.ph/)  
+- [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
