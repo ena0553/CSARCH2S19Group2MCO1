@@ -76,6 +76,7 @@ source: https://www.youtube.com/watch?v=eJjRRr90BHk&t
 **PSU**: According the PcParts Picker, the estimated wattage consumption of our compotents is 325 Watts, therefore the Gigabyte P550SS Silver 550W ATX 3.0 80+ Power Supply GP-P550SS with a 550 wattage will allow for flexibility in terms of electricity usage of components. 
 
 **Case**: The matx case will be able to fit the Gigabyte B760M DS3H WiFi6E Gen5 motherboard as it is also an matx motherboard. Whilst the Gigabyte P550SS Silver 550W ATX 3.0 80+ Power Supply is an atx size, the case will still be able to accomodate its size. 
+
 ---
 
 ## 5. Budget Analysis
@@ -108,6 +109,7 @@ Reflections on:
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
