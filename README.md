@@ -14,6 +14,9 @@
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+For this project, the assignment was to create a an Intel-based entry level gaming PC build with an allocated budget of Php 40,000 (with ±5% allowance). As stated in the project specs, the build should be comparable to an XBox One, power-wise. It should be able to handle all older titles with ease, while still being able to run modern games on a low setting. Further restrictions include selecting parts that can be sourced locally in Metro Manila, and that the aforementioned parts are from the current era (2024 onwards) or not nearing obsoletion. 
+
+**INCLUDE A BRIEF OVERVIEW OF THE BUILD HERE**
 
 ---
 
@@ -40,7 +43,7 @@ PCPartPicker Permalink: _________
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: [Local Build](https://docs.google.com/spreadsheets/d/1a7CRtZfJJV3HYpzSSprDe-FBY0hb6Mun_HKGo--Kn4M/edit?usp=sharing)  
 
 ### Local Build Table
 | Component       | Model                               | Vendor & Link      | Price (Php)    | Compatibility Notes                  |
@@ -64,15 +67,20 @@ For each part, explain compatibility and choices.
 Example:  
 - **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.
+- **Cooler**:
+- **PSU**:
+- **Case Fans**:
+- **Case**:
 
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱40,000 (±5%) 
+- **Final Total**: ₱42,000  
+- ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+
 
 ---
 
@@ -87,11 +95,11 @@ Reflections on:
 - Your video link here  
 
 ## 8. References
-
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
-
+[Dynaquest](https://dynaquestpc.com/)
+[DataBlitz](https://ecommerce.datablitz.com.ph/)
+[EasyPC](https://easypc.com.ph/)  
+[Amazon](https://www.amazon.com/) - this site was not used to source parts, but the Date First Available of each item was used to determine when they were released.
+[PCPartPicker build link](https://pcpartpicker.com/user/jcho22/saved/#view=CRk6qs)
 
 
 
