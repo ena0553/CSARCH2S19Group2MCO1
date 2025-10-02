@@ -80,11 +80,11 @@ source: https://www.youtube.com/watch?v=eJjRRr90BHk&t
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱42,000  
+- **Final Total**: ₱41,680 
+- ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
-
+Given our measely budget, some trade-offs had to be made in order to fit in a GPU while adhering to the given requirements. For starters, given that we settled for a Core i3, this will limit performance on very CPU heavy tasks, and while currently not an issue owing to our GPU choice, may be a source of bottleneck when paired with a much more powerful GPU. We settled on using the stock cooler that comes with the CPU, as we could not fit that in the budget, which is also the same reason we did not get a HDD or a higher capacity SSD. We also went with a cheap case, which may be inconvenient to work with. Lastly, we went with a power supply of only 550 watts, which is sufficient for this build but does limit future upgrades, meaning that a much more beefier GPU may necessitate a switch with the power supply.
 ---
 
 ## 6. Conclusion & Learnings
@@ -110,6 +110,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
