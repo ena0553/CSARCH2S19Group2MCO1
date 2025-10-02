@@ -20,7 +20,7 @@ That said, since we spent a good amount of budget on the GPU, we had to settle f
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: (https://pcpartpicker.com/list/YTXX8Q)
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
@@ -109,6 +109,7 @@ Reflections on:
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
