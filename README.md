@@ -1,7 +1,7 @@
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S19 
 **Group Members**:  
 - Aragon, Enrique Miguel M.
 - Limtin, Richard  
@@ -69,11 +69,11 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱42,000  
+- **Final Total**: ₱41,680  
+- ✅ Within budget 
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
-
+  Lesser known PSU, Only stock cooler for cpu, Lesser known PC case
 ---
 
 ## 6. Conclusion & Learnings
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
