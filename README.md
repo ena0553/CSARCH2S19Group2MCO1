@@ -1,7 +1,7 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 2
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S19
 **Group Members**:  
 - Aragon, Enrique Miguel M.
 - Limtin, Richard  
@@ -15,6 +15,7 @@
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
 
+For this build, our group was tasked to build a desktop that allows gaming on a budget while still using modern parts. Hence, we primarily focused on maximizing GPU performance with a budget of Php 42,000 or USD 720, as the GPU is the component most heavily utilized by games, especially more modern ones, which is why we selected the RTX 5050, which should be sufficient for 60fps gaming on most modern games provided you're willing to compromise a bit with quality. That said, since we spent a good amount of budget on the GPU, we had to settle for cheaper parts for the rest. This is most evident with the CPU, where we settled with a 14th Generation Intel Core i3. Though it may be the lowest tier in Intel's Core lineup of processors offering only 4 cores 8 threads, it is no slouch and can still deliver good performance for most general use cases. This necessitated a compatible LGA1700 socket motherboard, and due to the new parts restriction, the one we did find also required DDR5 memory, severly constraining our budget. Keeping all of the above in mind, we only had the budget for a 500gb SSD, however this is upgradable, with an extra M.2 slot allowing for another SSD. It should be noted that while we did cheap out on some aspects due to budget constraints, all of the parts selected are still good enough to perform the tasks expected of them while complying with the given specifications, as seen with the power supply being certified 80+ Silver.
 ---
 
 ## 2. Draft Build (PCPartPicker)
@@ -91,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
