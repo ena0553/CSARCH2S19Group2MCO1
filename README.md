@@ -34,7 +34,7 @@ PCPartPicker Permalink: [DraftBuild](https://pcpartpicker.com/list/VsgdLc)
 | Graphics Card   | Asus DUAL OC GeForce RTX 5050 8 GB Video Card  | 249.99             | ...   |
 | Power Supply    |Gigabyte P550SS 550 W 80+ Silver Certified ATX Power Supply  | 44.59             | Price unavailable on PCPartPicker, price taken from Dynaquest and converted to USD   |
 | Case            | Zalman CUBIX MicroATX Mini Tower Case| 38.9             | ...   |
-| Case Fans       | (2 pcs) ARCTIC P12 Pro 77 CFM Fan  | ...             | 16.98   |
+| Case Fans       | (2 pcs) ARCTIC P12 Pro 77 CFM Fan  | 16.98             | ...   |
 | **Total**       |       | **720.40 USD / 41,937.01 Php**     |       |
 
 ---
@@ -110,6 +110,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
