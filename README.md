@@ -20,28 +20,28 @@ That said, since we spent a good amount of budget on the GPU, we had to settle f
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: (https://pcpartpicker.com/list/YTXX8Q)
+PCPartPicker Permalink: [DraftBuild](https://pcpartpicker.com/list/YTXX8Q)
 
 ### Summary Table 
-| Component       | Model | Price (USD/Php) | Notes |
+| Component       | Model | Price (USD) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| CPU             | Intel Core i3-14100F 3.5 GHz Quad-Core Processor   | 99.99             | ...   |
+| CPU Cooler      | -  | ...             | ...   |
+| Motherboard     | Gigabyte B760M Motherboard   | 152.98             | ...   |
+| RAM             |    | ...             | ...   |
+| Storage 1       | Adata Legend 860 500GB SSD  | 88.99             | ...   |
+| Storage 2       | -  | ...             | ...   |
+| Graphics Card   | Asus DUAL OC GeForce RTX 5050 8 GB Video Card  | 249.99             | ...   |
+| Power Supply    |Gigabyte P550SS 550 W 80+ Power Supply   | 44.62             | Price unavailable on PCPartPicker, price taken from Dynaquest and converted to USD   |
+| Case            | darkFlash DB330M MicroATX Mini Tower Case| 65.23             | ...   |
+| Case Fans       | ARCTIC P12 Pro 77 CFM Fan  | ...             | 8.49   |
+| **Total**       |       | **682.65 USD**     |       |
 
 ---
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: [Local build](https://docs.google.com/spreadsheets/d/1a7CRtZfJJV3HYpzSSprDe-FBY0hb6Mun_HKGo--Kn4M/edit?usp=sharing)  
 
 ### Local Build Table
 | Component       | Model                               | Vendor & Link      | Price (Php)    | Compatibility Notes                  |
@@ -88,10 +88,11 @@ source: https://www.youtube.com/watch?v=eJjRRr90BHk&t
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+Crafting this PC Build was quite challenging, with the hardest part being the restrictions that the parts selected must be newly released (2024 onwards). Sites like PCPartPicker do not have an option sort by release date, and a lot of brands in general do not publicly list the release date of their parts. In order to find release dates, we used the "Date First Available" field on Amazon listings for the items. Otherwise, taking care of the budget restrictions would have been easy since we could just get older, but still well-made parts. 
+
+Another challenge that we faced was whenever we would find an international part, only for it to end up having no local stock. It was kind of frustrating since some of the parts we found were really well compatible with our build while also being budget-friendly. Some price differences from international and local prices stem from shipping costs, varied taxes, and local vendor costs. We found most local prices to be more affordable than international due to these factors, especially since some of our parts were manafactured in nearby countries. 
+
+Ultimately, the group learned that when you are on a strict budget, certain tradeoffs are expected, and we need to learn where to compromise. It is best to have a clear idea of what you want to use your PC for in order to know where to splurge and where to cut costs.
 
 ---
 ## 7. Video pitch
@@ -109,6 +110,7 @@ Reflections on:
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
