@@ -69,7 +69,9 @@ Google spreadsheet link: [Local build](https://docs.google.com/spreadsheets/d/1a
 **CPU + GPU**: The i3-14100F and RTX 5050 allows for smooth graphics and fps for 1080p gaming:
 
 Cyberpunk 1080p ULTRA AVG 69 FPS
+
 God Of War Ragnarok 1080p ULTRA AVG 84 FPS
+
 CSGO 2.0 1080p ULTRA AVG 348 FPS
 
 source: https://www.youtube.com/watch?v=eJjRRr90BHk&t
@@ -111,6 +113,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
