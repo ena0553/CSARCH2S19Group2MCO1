@@ -99,7 +99,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [Video Pitch](https://youtu.be/Mc9mZpm6lVM)
 
 ## 8. References
 
@@ -113,6 +113,7 @@ Ultimately, the group learned that when you are on a strict budget, certain trad
 - [EasyPC](https://easypc.com.ph/)  
 - [DataBlitz](https://ecommerce.datablitz.com.ph/)  
 - [Amazon](https://www.amazon.com/) *(used to check part release dates)*
+
 
 
 
